@@ -1,0 +1,27 @@
+#Desafio de Código: Insights da aula
+
+#Papel do engenheiro de dados
+
+- Prepara os dados para o cientista analisar, é o engenheiro quem 
+disponibiliza a informação; São áreas complementares;
+
+- É imprescindível que o profissional saiba algumas ferramentas, mas ela não
+é o principal para conseguir uma vaga. O ideal é que conheça toda a interface
+de dados, pelo menos ter conhecido;
+
+- Conhecer um pouco de SGBD é o básico, porém conhecer todas as ferramentas é
+impossível. O ideal é conhecer o contexto e o propósito, em relação ao mundo relacional 
+mesmo com uma visão de um outro banco de dados que não seja o utilizado pra você, a curva
+de aprendizagem já é bem mais alta do que uma pessoa que nunca tenha visto; os bancos 
+não relacionais entender de fato o por que você irá utilizar tal arquitetura e não
+só suas IDES. E ao começar em uma empresa, se aprofundar na tecnologia que você irá 
+utilizar, porque tudo depende da aplicabilidade;
+
+- Ser bem analítico, ter uma visão mais crítica a respeito do dado, posso reutilizar? 
+como deixar os dados da melhor maneira possível? - são perguntas que um engenheiro
+deve se perguntar;
+
+- A estatística e matemática são a base para uma carreira em dados, é super importante 
+entender também os conceitos além de apenas as bibliotecas; o conhecimento em negócios
+também é uma skill bem solicitada;
+
