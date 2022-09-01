@@ -1,5 +1,5 @@
 # DIO
-Repositório utilizado para organizar as aulas, cursos e projetos da plataforma DIO
+Repositório utilizado para organizar os desafios de código do DBXperience
 
 ## Desafios de Código DIO
 
